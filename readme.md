@@ -7,4 +7,4 @@ In order to run the Colab implementation, the first cell is the most important b
 
 
 ## How to Execute Locally
-Once everything is installed, download the `implementation.py` file, which is attached in this repository and execute it.
+Once everything is installed, download the `implementation.py` file, which is attached in this repository and execute it. In `implementation.py`, [line 386](https://github.com/Aljumaily/COSC5P30/blob/c0452e09204543f57fd07e326636cef72d19681c/implementation.py#L386) has the number of isomorphic graphs to generate as `n=2`. Change as desired.
