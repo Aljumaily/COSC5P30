@@ -6,5 +6,5 @@ The project has been hosted on Colab using Python 3.12 for the sake of simply ru
 In order to run the Colab implementation, the first cell is the most important because it sets the number of isomorphic graphs to generate. It is set to two by default `n: int=2`. It is encouraged to use a single digit integer as the execution time will be long. Approximately, each isomorphic graph generated will take approximately 30 seconds to execute. You are welcome to add more gates in the last cell.
 
 
-## How to run Locally
-Once everything is installed, download the `implementation.py` file and execute it.
+## How to Execute Locally
+Once everything is installed, download the `implementation.py` file, which is attached in this repository and execute it.
