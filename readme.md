@@ -7,4 +7,4 @@ In order to run the Colab implementation, the first cell is the most important b
 
 
 ## How to run Locally
-Once everything is installed, 
+Once everything is installed, download the `implementation.py` file and execute it.
